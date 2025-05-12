@@ -1,0 +1,15 @@
+                        WELCOME TO APNA BAZAR                         
+ Bill Number:2608
+ Customer Name:hvgv
+ Mobile Number:kemwjdsnsad
+ Customer Email:ghfh
+===========================================
+ Products			OTY		Price
+===========================================Olay		1		20
+RealMe 12		1		20
+RealMe Pro		1		30000
+
+=====================================
+ Sub Total:			Rs.30040.00
+ Tax Amount:			Rs.300.40
+ Total Amount:			Rs.30340.40

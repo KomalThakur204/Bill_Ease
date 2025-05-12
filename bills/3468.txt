@@ -1,0 +1,19 @@
+                        WELCOME TO APNA BAZAR                         
+ Bill Number:3468
+ Customer Name:komal thakur
+ Mobile Number:6280480978
+ Customer Email:komal1234@gmail.com
+===========================================
+ Products			OTY		Price
+===========================================
+
+Roadster		1		1800
+Life Boy		1		20
+Ponds		1		20
+OnePlus Nord 4		1		30000
+Roadster		1		1800
+
+=========================================
+ Sub Total:			Rs.33640.00
+ Tax Amount:			Rs.336.40
+ Total Amount:			Rs.33976.40
