@@ -5,11 +5,11 @@ This project is a GUI-based billing system built with Python that allows users t
 ## 📊 Key Features
 - 🧾 **Generate Customer Bills** – Add items, compute totals, taxes, and discounts.
 
-- 💾** Save Bills to MySQL** – Automatically store billing details in a MySQL database.
+- 💾 **Save Bills to MySQL** – Automatically store billing details in a MySQL database.
 
-- 🖨️ **Print Bill Option **– Generate a printable bill format.
+- 🖨️ **Print Bill Option**– Generate a printable bill format.
 
-- 🔍** Search Past Bills** – Query bills from the database by date or customer.
+- 🔍 **Search Past Bills** – Query bills from the database by date or customer.
 
 ## 🛠️Tools & Technologies Used
 - **Python (Tkinter)** – For creating the GUI.
