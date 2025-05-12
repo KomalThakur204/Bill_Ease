@@ -16,7 +16,7 @@ This project is a GUI-based billing system built with Python that allows users t
 
 - **MySQL** – For storing billing records.
 
-- **Pillow** – For image handling (if used in GUI).
+- **Pillow** – For image handling.
 ## 📸 Screenshots
 
 ### 🖥️ Main Interface
